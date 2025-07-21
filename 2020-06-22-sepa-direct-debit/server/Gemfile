@@ -2,6 +2,6 @@ source 'https://rubygems.org/'
 
 gem 'dotenv'
 gem 'json'
-gem 'sinatra'
-gem 'sinatra-contrib'
+gem 'sinatra', '>= 2.1.0'
+gem 'sinatra-contrib', '>= 2.1.0'
 gem 'stripe'
